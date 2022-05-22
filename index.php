@@ -191,7 +191,7 @@
                             </li>
                         </ul>
                     </div>
-                    <a href="#download" class="btn btn-style mt-5">Download CV</a>
+                    <a href="https://micolperalta.com/micol-peralta-cv.pdf" class="btn btn-style mt-5" target="_blank">Download CV</a>
                 </div>
             </div>
         </div>
