@@ -97,7 +97,7 @@
                     <p class="banner-sub me-md-5"> I am a Fullstack Developer Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                     </p>
                     <div class="d-flex align-items-center buttons-banner mt-sm-5 mt-4">
-                        <a href="about.html" class="btn btn-style me-2">Hire Me</a>
+                        <a href="#contact" class="btn btn-style me-2">Hire Me</a>
                     </div>
                 </div>
                 <div class="col-md-6">
