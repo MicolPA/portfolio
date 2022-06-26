@@ -319,6 +319,41 @@
                         </div>
                     </div> -->
                 </div>
+                <div class="col-lg-6 pe-lg-5">
+                    <div class="progress-info info1">
+                        <h6 class="progress-tittle">PHP <span class="">80%</span></h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped gradient-1" role="progressbar"
+                                style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-info info2">
+                        <h6 class="progress-tittle">HTML/CSS <span class="">90%</span>
+                        </h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped gradient-2" role="progressbar"
+                                style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-info info3">
+                        <h6 class="progress-tittle">JavaScript <span class="">60%</span></h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped gradient-3" role="progressbar"
+                                style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="progress-info info4 mb-0">
+                        <h6 class="progress-tittle">RESTful APIs <span class="">85%</span></h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped gradient-4" role="progressbar"
+                                style="width: 85%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
                 <div class="col-lg-6 ps-lg-5 mt-lg-0 mt-5">
                     <div class="progress-info info1">
                         <h6 class="progress-tittle">RESTful APIs <span class="">85%</span></h6>
@@ -367,6 +402,20 @@
                 <h3 class="title-style">Some of my most recent projects</h3>
             </div>
             <div class="row">
+                <div class="col-lg-4 col-md-6 item mb-4">
+                    <a href="assets/images/projects/rudok-search-reactjs.png" data-lightbox="example-set" data-title="Search Engine using ReactJS + Google API (DEMO: https://rudok-search.netlify.app)"
+                        class="zoom d-block">
+                        <div style="height:300px;background-image: url('assets/images/projects/rudok-search-reactjs.png');background-position: left;background-repeat: no-repeat;background-size:cover">
+                            
+                        </div>
+                        <!-- <img class="card-img-bottom d-block" src="assets/images/projects/micobro.png" alt="Card image cap"> -->
+                        <span class="overlay__hover"></span>
+                        <span class="hover-content">
+                            <span class="title">Search Engine</span>
+                            <span class="content">Search Engine using ReactJS + Google API (https://rudok-search.netlify.app)</span>
+                        </span>
+                    </a>
+                </div>
                 <div class="col-lg-4 col-md-6 item mb-4">
                     <a href="assets/images/projects/micobro.png" data-lightbox="example-set" data-title="MiCobro - Billing, inventory and point of sale (POS) system in the Cloud. (PHP Yii2 + JS + MySQL)"
                         class="zoom d-block">
