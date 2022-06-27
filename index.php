@@ -368,7 +368,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 item mb-4">
-                    <a href="assets/images/projects/rudok-search-reactjs.png" data-lightbox="example-set" data-title="Search Engine using ReactJS + Google API (DEMO: https://rudok-search.netlify.app)"
+                    <a href="assets/images/projects/rudok-search-reactjs.png" data-lightbox="example-set" data-title="Search Engine using ReactJS + Tailwind CSS + Google API (DEMO: https://rudok-search.netlify.app)"
                         class="zoom d-block">
                         <div style="height:300px;background-image: url('assets/images/projects/rudok-search-reactjs.png');background-position: left;background-repeat: no-repeat;background-size:cover">
                             
@@ -377,7 +377,7 @@
                         <span class="overlay__hover"></span>
                         <span class="hover-content">
                             <span class="title">Search Engine</span>
-                            <span class="content">Search Engine using ReactJS + Google API (https://rudok-search.netlify.app)</span>
+                            <span class="content">Search Engine using ReactJS + Tailwind CSS + Google API (https://rudok-search.netlify.app)</span>
                         </span>
                     </a>
                 </div>
